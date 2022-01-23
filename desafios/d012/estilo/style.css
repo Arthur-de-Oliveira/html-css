@@ -19,12 +19,6 @@ header {
 header > h1 {
     padding-top: 50px;
     font-variant: small-caps;
-    /* 
-    maiuscula com a primeira letra maior 
-    
-    text-transform: uppercase;
-    tranforma tudo em maiusculo do mesmo tamanho
-    */
 }
 
 header > p {
